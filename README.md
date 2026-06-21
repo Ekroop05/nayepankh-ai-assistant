@@ -247,4 +247,4 @@ The solution demonstrates how AI can be practically applied within non-profit or
 
 ## Author
 
-Developed as an internship project and AI-powered community engagement solution for NayePankh Foundation.
+Student at Chandigarh University
